@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import { PageHeading } from "../components/page-heading"
+import { LandingPageHeader } from "../components/landing-page-header"
 
 export default function Home() {
   return (
@@ -11,7 +11,7 @@ export default function Home() {
         <title>Pick A Dev</title>
       </Head>
       
-      <PageHeading title="Pick A Dev" tagline="Browse our vast selection of React Developer profiles and choose the one that best suits your needs!"/>
+      <LandingPageHeader title="Pick A Dev" tagline="Browse our vast selection of React Developer profiles and choose the one that best suits your needs!"/>
     </>
   )
 }

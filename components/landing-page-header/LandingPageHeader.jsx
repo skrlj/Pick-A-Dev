@@ -14,7 +14,7 @@ function LandingPageHeader({title, tagline, ...props}) {
                     <h1 className="text-4xl md:text-6xl lg:text-8xl font-extrabold text-blue-violet py-3">
                         {title}
                     </h1>
-                    <p className="text-base md:text-lg lg:text-xl text-regal-blue">{tagline}</p>
+                    <p className="text-base md:text-lg lg:text-xl font-semibold text-regal-blue">{tagline}</p>
                 </figcaption>
             </figure>
         </header>

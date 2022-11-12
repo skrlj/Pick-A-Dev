@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <meta charset="UTF-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
-        <meta name='desciption' content='Browse our vast selection of North American React Developer profiles and chose the one that best suits your needs!'/>
+        <meta name="description" content="Browse our vast selection of North American React Developer profiles and chose the one that best suits your needs!"/>
         <title>Pick A Dev</title>
       </Head>
       

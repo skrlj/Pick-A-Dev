@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import bannerImage from './../../public/pickadev.png'
+import bannerImage from "./../../../public/pickadev.png"
 
 function LandingPageHeader({title, tagline, ...props}) {
     return (
@@ -22,5 +22,3 @@ function LandingPageHeader({title, tagline, ...props}) {
 }
 
 export default LandingPageHeader;
-
-// bg-[radial-gradient(ellipse_at_bottom,_var(--tw-gradient-stops))] from-red-600 via-orange-500 to-yellow-300

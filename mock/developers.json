@@ -1,0 +1,451 @@
+[{
+    "uid": "x6PPDoZCNvS",
+    "fullName": "Marjorie Iskower",
+    "avatar": "https://robohash.org/occaecatietofficiis.png?size=250x250&set=set1",
+    "company": "Cruickshank-Ankunding",
+    "availability": false,
+    "experience": 21,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "4YC0VOrq8P",
+    "fullName": "Dottie Deveril",
+    "avatar": "https://robohash.org/temporibuslaboresoluta.png?size=250x250&set=set1",
+    "company": "Pacocha, Cronin and Weber",
+    "availability": true,
+    "experience": 21,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "vMc0OL0V",
+    "fullName": "Meagan Tal",
+    "avatar": "https://robohash.org/natusetrerum.png?size=250x250&set=set1",
+    "company": "Bode and Sons",
+    "availability": false,
+    "experience": 13,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "Mbns38HMi",
+    "fullName": "Layton Appleyard",
+    "avatar": "https://robohash.org/aliquidvoluptatumvoluptates.png?size=250x250&set=set1",
+    "company": "Yost-Schmidt",
+    "availability": true,
+    "experience": 16,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "gkwZXki74ryK",
+    "fullName": "Vassily Roadnight",
+    "avatar": "https://robohash.org/quasireiciendisvoluptas.png?size=250x250&set=set1",
+    "company": "Ebert Inc",
+    "availability": false,
+    "experience": 18,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "V3h28wvxWB4",
+    "fullName": "Dewey Elizabeth",
+    "avatar": "https://robohash.org/eiusinventorequia.png?size=250x250&set=set1",
+    "company": "Beahan-Kuvalis",
+    "availability": true,
+    "experience": 2,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "lQyOwmHv",
+    "fullName": "Val Josefsson",
+    "avatar": "https://robohash.org/maioresutfuga.png?size=250x250&set=set1",
+    "company": "Price-Hamill",
+    "availability": true,
+    "experience": 4,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "PKGnxM9K",
+    "fullName": "Nanette Glasheen",
+    "avatar": "https://robohash.org/nisidolornihil.png?size=250x250&set=set1",
+    "company": "Mayer Inc",
+    "availability": false,
+    "experience": 9,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "zrlr54wQ",
+    "fullName": "Ewell McAlarney",
+    "avatar": "https://robohash.org/debitisveniamminima.png?size=250x250&set=set1",
+    "company": "Gleichner-Harber",
+    "availability": false,
+    "experience": 24,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "OBlYv06e",
+    "fullName": "Danny Matheson",
+    "avatar": "https://robohash.org/adeligendidolores.png?size=250x250&set=set1",
+    "company": "Greenfelder-Frami",
+    "availability": true,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "R3ZuTeMCUpF",
+    "fullName": "Catlaina Carlick",
+    "avatar": "https://robohash.org/rerumnihilullam.png?size=250x250&set=set1",
+    "company": "Corkery, Hermiston and Bashirian",
+    "availability": false,
+    "experience": 12,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "cs7xUCM5hL8",
+    "fullName": "Franchot Absalom",
+    "avatar": "https://robohash.org/quisquimolestias.png?size=250x250&set=set1",
+    "company": "Wehner, Bins and Bradtke",
+    "availability": true,
+    "experience": 1,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "doSPPT5",
+    "fullName": "Sibylle Tineman",
+    "avatar": "https://robohash.org/sedvoluptaset.png?size=250x250&set=set1",
+    "company": "Steuber, Schoen and Schuster",
+    "availability": false,
+    "experience": 9,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "wueOOlg6o",
+    "fullName": "Leontyne Yacobsohn",
+    "avatar": "https://robohash.org/velaspernaturlabore.png?size=250x250&set=set1",
+    "company": "Koepp, Nolan and O'Hara",
+    "availability": false,
+    "experience": 15,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "9CGjHzF",
+    "fullName": "Pepe Myles",
+    "avatar": "https://robohash.org/minusbeataeomnis.png?size=250x250&set=set1",
+    "company": "Adams, Schuster and Lesch",
+    "availability": false,
+    "experience": 14,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "nDSV3Ao",
+    "fullName": "Renee Peascod",
+    "avatar": "https://robohash.org/quiserroreaque.png?size=250x250&set=set1",
+    "company": "Howe, Robel and Hermann",
+    "availability": true,
+    "experience": 21,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "SskN3u",
+    "fullName": "Ardenia Trammel",
+    "avatar": "https://robohash.org/minusvoluptatesdolor.png?size=250x250&set=set1",
+    "company": "Douglas, Schiller and Runolfsdottir",
+    "availability": false,
+    "experience": 21,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "bqRFZj0QChc",
+    "fullName": "Kris Real",
+    "avatar": "https://robohash.org/sapienteestsunt.png?size=250x250&set=set1",
+    "company": "Abernathy, Schroeder and Kuvalis",
+    "availability": true,
+    "experience": 13,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "aClR8S",
+    "fullName": "Viv Blackham",
+    "avatar": "https://robohash.org/providentdolorsapiente.png?size=250x250&set=set1",
+    "company": "Lindgren-Littel",
+    "availability": true,
+    "experience": 10,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "W6ffKEL",
+    "fullName": "Sandie Simpole",
+    "avatar": "https://robohash.org/voluptatemdeseruntculpa.png?size=250x250&set=set1",
+    "company": "Quitzon, Weissnat and Zulauf",
+    "availability": true,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "CAymHxlz6",
+    "fullName": "Griffin Pietrusiak",
+    "avatar": "https://robohash.org/recusandaevoluptatemdebitis.png?size=250x250&set=set1",
+    "company": "Batz LLC",
+    "availability": false,
+    "experience": 17,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "4aTkfWuYFX",
+    "fullName": "Pansie Castelot",
+    "avatar": "https://robohash.org/voluptatemveniamconsequuntur.png?size=250x250&set=set1",
+    "company": "Hane Inc",
+    "availability": true,
+    "experience": 9,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "23hURjcCQpVr",
+    "fullName": "Laurianne Gentry",
+    "avatar": "https://robohash.org/omnissitaut.png?size=250x250&set=set1",
+    "company": "Marquardt, Becker and Streich",
+    "availability": true,
+    "experience": 9,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "uMUZq0yU",
+    "fullName": "Sacha Levet",
+    "avatar": "https://robohash.org/facilisiureaperiam.png?size=250x250&set=set1",
+    "company": "Padberg Group",
+    "availability": false,
+    "experience": 2,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "XKchJlMj",
+    "fullName": "Julee Chalcraft",
+    "avatar": "https://robohash.org/deseruntassumendaincidunt.png?size=250x250&set=set1",
+    "company": "Schmidt LLC",
+    "availability": false,
+    "experience": 5,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "04WgWBwzF",
+    "fullName": "Standford Patient",
+    "avatar": "https://robohash.org/nequetemporibusmagni.png?size=250x250&set=set1",
+    "company": "Predovic-Waelchi",
+    "availability": true,
+    "experience": 3,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "4HE4lX",
+    "fullName": "Oswald Goodwyn",
+    "avatar": "https://robohash.org/rerumidsequi.png?size=250x250&set=set1",
+    "company": "Witting, Fisher and Wisozk",
+    "availability": false,
+    "experience": 2,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "l8H85Tfb",
+    "fullName": "Thatcher Berryman",
+    "avatar": "https://robohash.org/itaquetemporaaut.png?size=250x250&set=set1",
+    "company": "Morissette, Wiza and Huels",
+    "availability": false,
+    "experience": 17,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "exwvizZLtCw",
+    "fullName": "Francesca Gellert",
+    "avatar": "https://robohash.org/laudantiumdolorfuga.png?size=250x250&set=set1",
+    "company": "Macejkovic-Marvin",
+    "availability": true,
+    "experience": 15,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "BiK81lFbkds",
+    "fullName": "Mechelle Pickring",
+    "avatar": "https://robohash.org/enimrepellatquas.png?size=250x250&set=set1",
+    "company": "Homenick, Kunde and Hagenes",
+    "availability": false,
+    "experience": 1,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "UgcH9T3",
+    "fullName": "Nehemiah Cloney",
+    "avatar": "https://robohash.org/oditvitaeut.png?size=250x250&set=set1",
+    "company": "Kautzer and Sons",
+    "availability": true,
+    "experience": 8,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "ku3w0NeYB",
+    "fullName": "Kalil Di Claudio",
+    "avatar": "https://robohash.org/quiaquisdeleniti.png?size=250x250&set=set1",
+    "company": "Quitzon, Nicolas and Morar",
+    "availability": false,
+    "experience": 16,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "6U5mNYuUC3",
+    "fullName": "Benson Fenton",
+    "avatar": "https://robohash.org/utinquo.png?size=250x250&set=set1",
+    "company": "Gibson, Keebler and Morar",
+    "availability": true,
+    "experience": 18,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "4DvZBJ9QE",
+    "fullName": "Guthrey Stansall",
+    "avatar": "https://robohash.org/eiusipsamvelit.png?size=250x250&set=set1",
+    "company": "Stiedemann Inc",
+    "availability": false,
+    "experience": 2,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "Ux50uIMdim0N",
+    "fullName": "Drud Bartlosz",
+    "avatar": "https://robohash.org/officiispraesentiumdolores.png?size=250x250&set=set1",
+    "company": "Dooley-Kub",
+    "availability": false,
+    "experience": 22,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "PjgU7vYJ7Q",
+    "fullName": "Chandra Rydzynski",
+    "avatar": "https://robohash.org/ininventorererum.png?size=250x250&set=set1",
+    "company": "Ferry Inc",
+    "availability": false,
+    "experience": 13,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "7YMUkk3",
+    "fullName": "Darb Peckitt",
+    "avatar": "https://robohash.org/explicabomodireiciendis.png?size=250x250&set=set1",
+    "company": "Torp, Carter and Lind",
+    "availability": true,
+    "experience": 22,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "OHwjmA3o",
+    "fullName": "Zolly Croux",
+    "avatar": "https://robohash.org/praesentiummolestiaeet.png?size=250x250&set=set1",
+    "company": "O'Kon, Feest and Metz",
+    "availability": false,
+    "experience": 1,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "pDWOpcmZKeRS",
+    "fullName": "Robinetta Limbert",
+    "avatar": "https://robohash.org/ducimussolutaquam.png?size=250x250&set=set1",
+    "company": "Keeling-Roberts",
+    "availability": false,
+    "experience": 14,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "qqipRFrhNr",
+    "fullName": "Cyndy Mateos",
+    "avatar": "https://robohash.org/perspiciatisarchitectoquis.png?size=250x250&set=set1",
+    "company": "Rath-Lynch",
+    "availability": false,
+    "experience": 10,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "ou5VtycQ",
+    "fullName": "Donaugh Folca",
+    "avatar": "https://robohash.org/utadipiscirerum.png?size=250x250&set=set1",
+    "company": "Hartmann, Huel and Olson",
+    "availability": false,
+    "experience": 14,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "yZCdq6NAEbZY",
+    "fullName": "Ivette Booij",
+    "avatar": "https://robohash.org/accusamusaliasut.png?size=250x250&set=set1",
+    "company": "Donnelly Inc",
+    "availability": true,
+    "experience": 15,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "lKdQAgd",
+    "fullName": "Bay Pine",
+    "avatar": "https://robohash.org/eligendiistemollitia.png?size=250x250&set=set1",
+    "company": "Goyette-Parisian",
+    "availability": true,
+    "experience": 7,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "9HLPre90Mwx",
+    "fullName": "Aimil Ferfulle",
+    "avatar": "https://robohash.org/sitvoluptatumquasi.png?size=250x250&set=set1",
+    "company": "Hintz-Larson",
+    "availability": false,
+    "experience": 25,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "U0PhOZq4z",
+    "fullName": "Onfroi Autry",
+    "avatar": "https://robohash.org/remvoluptasquia.png?size=250x250&set=set1",
+    "company": "Collier, Gleason and Muller",
+    "availability": false,
+    "experience": 25,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }, {
+    "uid": "dqO49i",
+    "fullName": "Hanni Greenin",
+    "avatar": "https://robohash.org/molestiaseosaut.png?size=250x250&set=set1",
+    "company": "Reilly, Upton and Mante",
+    "availability": false,
+    "experience": 24,
+    "type": "full stack",
+    "jobTitle": "Full Stack Developer"
+  }, {
+    "uid": "PmGU3uo8p",
+    "fullName": "Cathryn Braznell",
+    "avatar": "https://robohash.org/undeaet.png?size=250x250&set=set1",
+    "company": "Ernser-Koch",
+    "availability": false,
+    "experience": 15,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "mmUdmgG02M54",
+    "fullName": "Baldwin Risman",
+    "avatar": "https://robohash.org/placeatoptioid.png?size=250x250&set=set1",
+    "company": "Metz-Metz",
+    "availability": false,
+    "experience": 24,
+    "type": "front end",
+    "jobTitle": "Web Designer"
+  }, {
+    "uid": "8uuTP2Fh9Ls",
+    "fullName": "Damian Scopes",
+    "avatar": "https://robohash.org/autemnamexpedita.png?size=250x250&set=set1",
+    "company": "Kiehn LLC",
+    "availability": false,
+    "experience": 6,
+    "type": "ui ux",
+    "jobTitle": "Interaction Designer"
+  }, {
+    "uid": "BPnqhubP",
+    "fullName": "Florie Rickard",
+    "avatar": "https://robohash.org/cumlaborevelit.png?size=250x250&set=set1",
+    "company": "Lueilwitz and Sons",
+    "availability": true,
+    "experience": 15,
+    "type": "back end",
+    "jobTitle": "Software Engineer"
+  }]

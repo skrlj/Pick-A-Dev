@@ -5,7 +5,7 @@ import NavBarLinks from "./NavBarLinks";
 
 function NavBar(){
     return (
-        <nav className="p-2 shadow relative flex justify-between">
+        <nav className="bg-teal-900 p-2 relative flex justify-between">
             <NavBarBranding/>
             <NavBarLinks/>
             <LoginButton className="md:block md:text-right"/>

@@ -3,7 +3,7 @@ import bannerImage from "./../../../public/pickadev.png"
 
 function LandingPageHeader({title, tagline, ...props}) {
     return (
-        <header className='bg-[radial-gradient(ellipse_at_bottom,_var(--tw-gradient-stops))] from-yellow-200 via-orange-500 to-red-500 w-full py-[5rem]'>
+        <header className='bg-gradient-to-b from-teal-900 to-black w-full py-[5rem] h-screen'>
             <figure className='flex justify-center flex-col items-center'>
                 <Image
                     className='mx-auto w-[30rem]'
@@ -11,10 +11,10 @@ function LandingPageHeader({title, tagline, ...props}) {
                     alt='pick a dev logo'
                 />
                 <figcaption className='text-center'>
-                    <h1 className="text-4xl md:text-6xl lg:text-8xl font-extrabold text-blue-violet py-3">
+                    <h1 className="text-4xl md:text-6xl lg:text-8xl font-extrabold text-cyan-600 py-3">
                         {title}
                     </h1>
-                    <p className="text-base md:text-lg lg:text-xl font-semibold text-regal-blue">{tagline}</p>
+                    <p className="text-base md:text-lg lg:text-xl font-semibold text-cyan-600">{tagline}</p>
                 </figcaption>
             </figure>
         </header>

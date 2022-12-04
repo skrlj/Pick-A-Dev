@@ -1,6 +1,10 @@
+import {ContentPageHeader} from './../components/headers/content-page-header'
+
 function UiUxPage() {
     return ( 
-        <p>ui ux page</p>
+        <>
+            <ContentPageHeader type="UI-UX Developers" title="Humanizing Technology" tagline="intuitive, aesthetically-pleasing, interactive interfaces"/>
+        </>
      );
 }
 

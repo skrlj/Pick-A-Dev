@@ -1,6 +1,10 @@
+import {ContentPageHeader} from './../components/headers/content-page-header'
+
 function FullStackPage() {
     return ( 
-        <p>full stack page</p>
+        <>
+        <ContentPageHeader type="Full Stack developers" title="Mr/Mrs DoItAll" tagline="specialized in versatility"/>
+        </>
      );
 }
 

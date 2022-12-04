@@ -1,6 +1,5 @@
 import Head from 'next/head'
-import { LandingPageHeader } from "./../components/headers/landing-page-header"
-import {NavBar} from "./../components/navigation"
+import {LandingPageHeader} from './../components/headers/landing-page-header/'
 
 export default function Home() {
   return (
@@ -11,8 +10,10 @@ export default function Home() {
         <meta name="description" content="Browse our vast selection of North American React Developer profiles and chose the one that best suits your needs!"/>
         <title>Pick A Dev</title>
       </Head>
-            
       <LandingPageHeader title="Pick A Dev" tagline="Browse our vast selection of React Developer profiles and choose the one that best suits your needs!"/>
+      <main>
+        
+      </main>
     </>
   )
 }

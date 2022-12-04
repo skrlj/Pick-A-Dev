@@ -4,6 +4,7 @@ function DefaultLayout({children, ...props}) {
     return ( 
         <>
             <NavBar/>
+            {children}
         </>
      );
 }

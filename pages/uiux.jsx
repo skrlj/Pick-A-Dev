@@ -12,7 +12,6 @@ function UiUxPage({ui}) {
                  experience = {dev.experience}
                  availability = {dev.availability}
             />)}
-
         </>
      );
 }

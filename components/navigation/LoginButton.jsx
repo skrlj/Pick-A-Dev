@@ -1,9 +1,10 @@
 import Link from 'next/link'
+import { LogInLogo } from '../icons';
 
 function LoginButton({className, ...props}) {
     return ( 
-        <Link href="/login" className={`hidden ${className} w-[130px] text-cyan-50 font-semibold uppercase`}>
-            Login
+        <Link href="/login">
+            <LogInLogo className="w-6 fill-cyan-50"/>
         </Link>
      );
 }

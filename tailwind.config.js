@@ -8,9 +8,8 @@ module.exports = {
   ],
   theme: {
     extend: {
-      colors: {
-        'regal-blue': '#005aff',
-        'blue-violet': '#2500ff'
+      boxShadow: {
+        'lg': '0 10px 15px -3px rgba(255,255,255, 0.3)',
       }
     },
   },

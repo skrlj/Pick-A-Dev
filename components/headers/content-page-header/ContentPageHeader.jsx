@@ -2,7 +2,7 @@ function ContentPageHeader({title, tagline, type}) {
     return (
       <>
         <header className="text-center pt-20 bg-teal-900">
-          <div className="w-[28rem] sm:w-[35rem] md:w-[40rem] lg:w-[45rem] mx-auto bg-emerald-200 border-emerald-100 border-2 shadow py-3 rounded-lg">
+          <div className="w-[28rem] sm:w-[35rem] md:w-[40rem] lg:w-[45rem] mx-auto bg-teal-100 border-teal-900 border-double border-8 shadow py-3 rounded-full">
             <h1 className="text-lg font-semibold text-teal-900 uppercase">
               {type}
             </h1>

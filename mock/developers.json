@@ -6,7 +6,9 @@
     "availability": false,
     "experience": 21,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "m.Iskower@github.com",
+    "city": "Kurnia"
   }, {
     "uid": "4YC0VOrq8P",
     "fullName": "Dottie Deveril",
@@ -15,7 +17,9 @@
     "availability": true,
     "experience": 21,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "d.Deveril@rambler.ru",
+    "city": "Amboise"
   }, {
     "uid": "vMc0OL0V",
     "fullName": "Meagan Tal",
@@ -24,7 +28,9 @@
     "availability": false,
     "experience": 13,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "m.Tal@webmd.com",
+    "city": "Bangui"
   }, {
     "uid": "Mbns38HMi",
     "fullName": "Layton Appleyard",
@@ -33,7 +39,9 @@
     "availability": true,
     "experience": 16,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "l.Appleyard@upenn.edu",
+    "city": "Londrina"
   }, {
     "uid": "gkwZXki74ryK",
     "fullName": "Vassily Roadnight",
@@ -42,7 +50,9 @@
     "availability": false,
     "experience": 18,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "v.Roadnight@msu.edu",
+    "city": "Shipunovo"
   }, {
     "uid": "V3h28wvxWB4",
     "fullName": "Dewey Elizabeth",
@@ -51,7 +61,9 @@
     "availability": true,
     "experience": 2,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "d.Elizabeth@nationalgeographic.com",
+    "city": "Kaduseeng"
   }, {
     "uid": "lQyOwmHv",
     "fullName": "Val Josefsson",
@@ -60,7 +72,9 @@
     "availability": true,
     "experience": 4,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "v.Josefsson@bigcartel.com",
+    "city": "Reconquista"
   }, {
     "uid": "PKGnxM9K",
     "fullName": "Nanette Glasheen",
@@ -69,7 +83,9 @@
     "availability": false,
     "experience": 9,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "n.Glasheen@guardian.co.uk",
+    "city": "Palmares"
   }, {
     "uid": "zrlr54wQ",
     "fullName": "Ewell McAlarney",
@@ -78,7 +94,9 @@
     "availability": false,
     "experience": 24,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "e.McAlarney@goo.gl",
+    "city": "Karagach"
   }, {
     "uid": "OBlYv06e",
     "fullName": "Danny Matheson",
@@ -87,7 +105,9 @@
     "availability": true,
     "experience": 1,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "d.Matheson@google.nl",
+    "city": "Ágios Týchon"
   }, {
     "uid": "R3ZuTeMCUpF",
     "fullName": "Catlaina Carlick",
@@ -96,7 +116,9 @@
     "availability": false,
     "experience": 12,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "c.Carlick@unesco.org",
+    "city": "San José de Ocoa"
   }, {
     "uid": "cs7xUCM5hL8",
     "fullName": "Franchot Absalom",
@@ -105,7 +127,9 @@
     "availability": true,
     "experience": 1,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "f.Absalom@hao123.com",
+    "city": "Schiltigheim"
   }, {
     "uid": "doSPPT5",
     "fullName": "Sibylle Tineman",
@@ -114,7 +138,9 @@
     "availability": false,
     "experience": 9,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "t.Tineman@amazon.co.jp",
+    "city": "Hoxtolgay"
   }, {
     "uid": "wueOOlg6o",
     "fullName": "Leontyne Yacobsohn",
@@ -123,7 +149,9 @@
     "availability": false,
     "experience": 15,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "l.Yacobsohn@newyorker.com",
+    "city": "Tangwu"
   }, {
     "uid": "9CGjHzF",
     "fullName": "Pepe Myles",
@@ -132,7 +160,9 @@
     "availability": false,
     "experience": 14,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "p.Myles@networksolutions.com",
+    "city": "Topol'noye"
   }, {
     "uid": "nDSV3Ao",
     "fullName": "Renee Peascod",
@@ -141,7 +171,9 @@
     "availability": true,
     "experience": 21,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "r.Peascod@hugedomains.com",
+    "city": "Almolonga"
   }, {
     "uid": "SskN3u",
     "fullName": "Ardenia Trammel",
@@ -150,7 +182,9 @@
     "availability": false,
     "experience": 21,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "a.Trammel@dion.ne.jp",
+    "city": "Gominhães"
   }, {
     "uid": "bqRFZj0QChc",
     "fullName": "Kris Real",
@@ -159,7 +193,9 @@
     "availability": true,
     "experience": 13,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "k.Real@weibo.com",
+    "city": "Maji"
   }, {
     "uid": "aClR8S",
     "fullName": "Viv Blackham",
@@ -168,7 +204,9 @@
     "availability": true,
     "experience": 10,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "v.Blackham@angelfire.com",
+    "city": "Celica"
   }, {
     "uid": "W6ffKEL",
     "fullName": "Sandie Simpole",
@@ -177,7 +215,9 @@
     "availability": true,
     "experience": 1,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "s.Simpole@is.gd",
+    "city": "Xinzhaiping"
   }, {
     "uid": "CAymHxlz6",
     "fullName": "Griffin Pietrusiak",
@@ -186,7 +226,9 @@
     "availability": false,
     "experience": 17,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "g.Pietrusiak@tumblr.com",
+    "city": "Bijaepasu"
   }, {
     "uid": "4aTkfWuYFX",
     "fullName": "Pansie Castelot",
@@ -195,7 +237,9 @@
     "availability": true,
     "experience": 9,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "P.Castelot@google.com.hk",
+    "city": "Santo André"
   }, {
     "uid": "23hURjcCQpVr",
     "fullName": "Laurianne Gentry",
@@ -204,7 +248,9 @@
     "availability": true,
     "experience": 9,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "l.Gentry@ft.com",
+    "city": "Brodokalmak"
   }, {
     "uid": "uMUZq0yU",
     "fullName": "Sacha Levet",
@@ -213,7 +259,9 @@
     "availability": false,
     "experience": 2,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "s.Levet@vinaora.com",
+    "city": "Nanjiao"
   }, {
     "uid": "XKchJlMj",
     "fullName": "Julee Chalcraft",
@@ -222,7 +270,9 @@
     "availability": false,
     "experience": 5,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "j.Chalcraft@disqus.com",
+    "city": "Alburitel"
   }, {
     "uid": "04WgWBwzF",
     "fullName": "Standford Patient",
@@ -231,7 +281,9 @@
     "availability": true,
     "experience": 3,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "s.Patient@shareasale.com",
+    "city": "Huangjinjing"
   }, {
     "uid": "4HE4lX",
     "fullName": "Oswald Goodwyn",
@@ -240,7 +292,9 @@
     "availability": false,
     "experience": 2,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "o.Goodwyn@discovery.com",
+    "city": "Yangzizhou"
   }, {
     "uid": "l8H85Tfb",
     "fullName": "Thatcher Berryman",
@@ -249,7 +303,9 @@
     "availability": false,
     "experience": 17,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "t.Berryman@yelp.com",
+    "city": "Banjar Batanpoh"
   }, {
     "uid": "exwvizZLtCw",
     "fullName": "Francesca Gellert",
@@ -258,7 +314,9 @@
     "availability": true,
     "experience": 15,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "f.Gellert@bravesites.com",
+    "city": "Santa Cristina Couto"
   }, {
     "uid": "BiK81lFbkds",
     "fullName": "Mechelle Pickring",
@@ -267,7 +325,9 @@
     "availability": false,
     "experience": 1,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "m.Pickring@guardian.co.uk",
+    "city": "Warin Chamrap"
   }, {
     "uid": "UgcH9T3",
     "fullName": "Nehemiah Cloney",
@@ -276,7 +336,9 @@
     "availability": true,
     "experience": 8,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "n.Cloney@barnesandnoble.com",
+    "city": "Tunjë"
   }, {
     "uid": "ku3w0NeYB",
     "fullName": "Kalil Di Claudio",
@@ -285,7 +347,9 @@
     "availability": false,
     "experience": 16,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "k.DiClaudio@unc.edu",
+    "city": "Sosnovoborsk"
   }, {
     "uid": "6U5mNYuUC3",
     "fullName": "Benson Fenton",
@@ -294,7 +358,9 @@
     "availability": true,
     "experience": 18,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "b.Fenton@narod.ru",
+    "city": "Chumphon Buri"
   }, {
     "uid": "4DvZBJ9QE",
     "fullName": "Guthrey Stansall",
@@ -303,7 +369,9 @@
     "availability": false,
     "experience": 2,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "g.Stansall@marketwatch.com",
+    "city": "Port Said"
   }, {
     "uid": "Ux50uIMdim0N",
     "fullName": "Drud Bartlosz",
@@ -312,7 +380,9 @@
     "availability": false,
     "experience": 22,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "d.Bartlosz@squarespace.com",
+    "city": "Mao"
   }, {
     "uid": "PjgU7vYJ7Q",
     "fullName": "Chandra Rydzynski",
@@ -321,7 +391,9 @@
     "availability": false,
     "experience": 13,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "c.Rydzynski@upenn.edu",
+    "city": "Guanshan"
   }, {
     "uid": "7YMUkk3",
     "fullName": "Darb Peckitt",
@@ -330,7 +402,9 @@
     "availability": true,
     "experience": 22,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "d.Peckitt@smh.com.au",
+    "city": "Manzë"
   }, {
     "uid": "OHwjmA3o",
     "fullName": "Zolly Croux",
@@ -339,7 +413,9 @@
     "availability": false,
     "experience": 1,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "z.Croux@opensource.org",
+    "city": "Basicao Coastal"
   }, {
     "uid": "pDWOpcmZKeRS",
     "fullName": "Robinetta Limbert",
@@ -348,7 +424,9 @@
     "availability": false,
     "experience": 14,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "r.Limbert@arizona.edu",
+    "city": "Mainit"
   }, {
     "uid": "qqipRFrhNr",
     "fullName": "Cyndy Mateos",
@@ -357,7 +435,9 @@
     "availability": false,
     "experience": 10,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "c.Mateos@latimes.com",
+    "city": "Taipalsaari"
   }, {
     "uid": "ou5VtycQ",
     "fullName": "Donaugh Folca",
@@ -366,7 +446,9 @@
     "availability": false,
     "experience": 14,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "d.Folca@scribd.com",
+    "city": "Bolekhiv"
   }, {
     "uid": "yZCdq6NAEbZY",
     "fullName": "Ivette Booij",
@@ -375,7 +457,9 @@
     "availability": true,
     "experience": 15,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "i.Booij@state.tx.us",
+    "city": "Bang Krathum"
   }, {
     "uid": "lKdQAgd",
     "fullName": "Bay Pine",
@@ -384,7 +468,9 @@
     "availability": true,
     "experience": 7,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "b.Pine@e-recht24.de",
+    "city": "Sundsvall"
   }, {
     "uid": "9HLPre90Mwx",
     "fullName": "Aimil Ferfulle",
@@ -393,7 +479,9 @@
     "availability": false,
     "experience": 25,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "a.Ferfulle@example.com",
+    "city": "Khān Yūnis"
   }, {
     "uid": "U0PhOZq4z",
     "fullName": "Onfroi Autry",
@@ -402,7 +490,9 @@
     "availability": false,
     "experience": 25,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "o.Autry@squarespace.com",
+    "city": "Xin Bulag"
   }, {
     "uid": "dqO49i",
     "fullName": "Hanni Greenin",
@@ -411,7 +501,9 @@
     "availability": false,
     "experience": 24,
     "type": "full stack",
-    "jobTitle": "Full Stack Developer"
+    "jobTitle": "Full Stack Developer",
+    "email": "h.Greenin@mediafire.com",
+    "city": "Huichang"
   }, {
     "uid": "PmGU3uo8p",
     "fullName": "Cathryn Braznell",
@@ -420,7 +512,9 @@
     "availability": false,
     "experience": 15,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "c.Braznell@nps.gov",
+    "city": "Kirs"
   }, {
     "uid": "mmUdmgG02M54",
     "fullName": "Baldwin Risman",
@@ -429,7 +523,9 @@
     "availability": false,
     "experience": 24,
     "type": "front end",
-    "jobTitle": "Web Designer"
+    "jobTitle": "Web Designer",
+    "email": "b.Risman@nasa.gov",
+    "city": "Karangsonojabon"
   }, {
     "uid": "8uuTP2Fh9Ls",
     "fullName": "Damian Scopes",
@@ -438,7 +534,9 @@
     "availability": false,
     "experience": 6,
     "type": "ui ux",
-    "jobTitle": "Interaction Designer"
+    "jobTitle": "Interaction Designer",
+    "email": "d.Scopes@xing.com",
+    "city": "Farkaždin"
   }, {
     "uid": "BPnqhubP",
     "fullName": "Florie Rickard",
@@ -447,5 +545,7 @@
     "availability": true,
     "experience": 15,
     "type": "back end",
-    "jobTitle": "Software Engineer"
+    "jobTitle": "Software Engineer",
+    "email": "f.Rickard@taobao.com",
+    "city": "Walahir"
   }]
